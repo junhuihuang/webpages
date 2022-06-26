@@ -1,0 +1,9 @@
+#+TITLE: 架构制图方法
+
+* 4+1
+#+CAPTION: 4+1视图
+[[file:images/4+1-view.png]]
+
+* C4
+#+CAPTION: C4视图
+[[file:images/c4-view.png]]
